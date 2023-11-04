@@ -3,4 +3,4 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures</b>
-  - [C++ Sentiment Analyzer](https://github.com/grant-palmerr/grant-palmerr)
+  - [C++ Sentiment Analyzer](https://github.com/grant-palmerr/assignment-2-don-t-be-sentimental-gpalmer99.git)
